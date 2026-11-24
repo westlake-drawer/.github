@@ -1,5 +1,5 @@
 <!--
-  Westlake Noter — GitHub Profile README (same-name repo: westlake-drawer/westlake-drawer)
+  Westlake Drawer — GitHub Profile README (same-name repo: westlake-drawer/westlake-drawer)
   风格来源：笔记站点（Fumadocs Glass 玻璃拟态 + Westlake 橙 #f28d01 + Primer 蓝 #0969da）
   文案来源：src/pages/index.js / docusaurus.config.js
   条目来源：笔记网站 /notes/ 与 /tools/ 两个 section（即 notes-index 仓库 docs/notes/、docs/tools/）
@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- 顶部橙色波浪横幅（品牌色） -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117,f28d01,f2a541&section=header&text=Westlake%20Noter&fontSize=48&fontColor=ffffff&fontAlign=50&animation=twinkling" alt="Westlake Noter" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117,f28d01,f2a541&section=header&text=Westlake%20Drawer&fontSize=48&fontColor=ffffff&fontAlign=50&animation=twinkling" alt="Westlake Drawer" />
 
 <!-- 打字机（站点真实 tagline） -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=F28D01&center=true&vCenter=true&width=720&lines=A+student-led,+open-source+collection;Notes+worth+sharing.;Knowledge+worth+building+together.;Westlake+University+Course+Notes" alt="typing" />
@@ -17,7 +17,7 @@
 <br/>
 
 <!-- 品牌徽章：橙色 + Primer 蓝，贴合站点配色 -->
-<a href="https://westlake-drawer.github.io/"><img src="https://img.shields.io/badge/Website-westlake--noter.github.io-0969da?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+<a href="https://westlake-drawer.github.io/"><img src="https://img.shields.io/badge/Website-westlake--drawer.github.io-0969da?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/westlake-drawer/notes-index/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-f28d01?style=for-the-badge" alt="License" /></a>
 <a href="https://westlake-drawer.github.io/notes/"><img src="https://img.shields.io/badge/Notes-9-f2a541?style=for-the-badge" alt="Notes" /></a>
 <a href="https://westlake-drawer.github.io/tools/"><img src="https://img.shields.io/badge/Tools-1-f2a541?style=for-the-badge" alt="Tools" /></a>
@@ -27,7 +27,7 @@
 
 ---
 
-**Westlake Noter** is a student-led, open-source collection of course notes from
+**Westlake Drawer** is a student-led, open-source collection of course notes from
 Westlake University — shared by students, open to everyone. Notes are written in
 Markdown + LaTeX (KaTeX) with Mermaid diagrams. The collections below mirror the
 site's **[Notes](https://westlake-drawer.github.io/notes/)** and
@@ -146,6 +146,6 @@ GitHub stars of each referenced repository (same order the sidebar uses).
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=f28d01&section=footer" alt="footer" />
 
-*Westlake Noter · Westlake University · Yungu Campus*
+*Westlake Drawer · Westlake University · Yungu Campus*
 
 </div>
