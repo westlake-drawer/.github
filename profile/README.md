@@ -1,20 +1,18 @@
 <!--
   Westlake Drawer — GitHub Profile README
-  视觉规则：与学生站点一致 — 主色 #f28d01 / #f2a541，深色底 #0d1117，表面 #151b23，
-            正文 #f0f6fc，次级 #9198a1，Primer 蓝 #0969da。
-  文案：与 http://westlake-drawer.github.io 的首页、/notes/、/tools/ 对齐。
-  注意：GitHub 会剥离 style 属性，所有观感靠图片服务参数与 markdown 结构实现。
+  视觉与站点一致：主色 #f28d01 / #f2a541，深色底 #0d1117，表面 #151b23，
+                  正文 #f0f6fc，次级 #9198a1，Primer 蓝 #0969da。
+  文案与 https://westlake-drawer.github.io 的首页、/notes/、/tools/ 对齐。
+  排名口径与站点 sidebar 相同：按各仓库 GitHub star 数降序。
 -->
 
 <div align="center">
 
-<img src="https://westlake-drawer.github.io/img/westlake-logo.svg" width="72" alt="Westlake Drawer" />
+<img src="https://westlake-drawer.github.io/img/westlake-logo.svg" width="64" alt="Westlake Drawer" />
 
-<!-- 顶部渐变横幅：深色 → 品牌橙 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:f28d01,100:f2a541&section=header&text=Westlake%20Drawer&fontSize=46&fontColor=ffffff&fontAlign=50&desc=Course%20Notes%20Index&descAlign=50&descSize=16&descColor=f0f6fc&animation=twinkling" alt="Westlake Drawer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:f28d01,100:f2a541&section=header&text=Westlake%20Drawer&fontSize=44&fontColor=ffffff&fontAlign=50&desc=Course%20Notes%20Index&descAlign=50&descSize=15&descColor=f0f6fc&animation=twinkling" alt="Westlake Drawer" width="100%" />
 
-<!-- 站点首页的 tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=900&color=F28D01&center=true&vCenter=true&width=680&lines=A+student-led%2C+open-source+collection;Notes+worth+sharing.;Knowledge+worth+building+together.;Westlake+University+%C2%B7+Yungu+Campus" alt="A student-led, open-source collection" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3400&pause=900&color=F28D01&center=true&vCenter=true&width=680&lines=A+student-led%2C+open-source+collection;Notes+worth+sharing.;Knowledge+worth+building+together.;Westlake+University+%C2%B7+Yungu+Campus" alt="A student-led, open-source collection" />
 
 <br />
 
@@ -31,65 +29,53 @@
   <img src="https://westlake-drawer.github.io/img/campus-light.webp" alt="Westlake University campus" width="100%" />
 </picture>
 
-**Westlake Drawer** is a student-led, open-source collection of course notes from
+Westlake Drawer is a student-led, open-source collection of course notes from
 Westlake University — shared by students, open to everyone. Notes are written in
 Markdown + LaTeX (KaTeX) with Mermaid diagrams, and the index is built with Docusaurus.
-
----
-
-## Explore the collection
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://westlake-drawer.github.io/notes/"><h3>📘 Course Notes</h3></a>
-      Browse notes by subject and course.
+      <a href="https://westlake-drawer.github.io/notes/"><strong>Course Notes</strong></a><br />
+      <sub>Browse notes by subject and course.</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://westlake-drawer.github.io/tools/"><h3>🛠 Tools</h3></a>
-      Browse tools for study and research.
+      <a href="https://westlake-drawer.github.io/tools/"><strong>Tools</strong></a><br />
+      <sub>Browse tools for study and research.</sub>
     </td>
   </tr>
 </table>
 
+---
+
 ## Course Notes
 
-### Mathematics
+Ordered by GitHub stars, the same order the site sidebar uses.
 
-| Course | Source |
-| :--- | :--- |
-| [Calculus](https://westlake-drawer.github.io/notes/math/calculus/) | `qwerasdasd1/Calculus-notes` |
-| [Linear Algebra](https://westlake-drawer.github.io/notes/math/linear-algebra/) | `qwerasdasd1/Linear-Algebra-notes` |
-| [Fundamental Algebra and Analysis](https://westlake-drawer.github.io/notes/math/fundamental-algebra-analysis/) | [`westlake-drawer`](https://github.com/westlake-drawer/FAA-lecture-notes-2025fall-2026spring) |
-| [Measure Theory and Real Analysis](https://westlake-drawer.github.io/notes/math/measure-theory-real-analysis/) | [`westlake-drawer`](https://github.com/westlake-drawer/Measure-Theory-and-Real-Analysis) |
-| [Ordinary Differential Equations](https://westlake-drawer.github.io/notes/math/ordinary-differential-equations/) | [`westlake-drawer`](https://github.com/westlake-drawer/Ordinary-Differential-Equations) |
-| [Probability Theory](https://westlake-drawer.github.io/notes/math/probability-theory/) | [`westlake-drawer`](https://github.com/westlake-drawer/Probability-Theory) |
-| [Partial Differential Equations](https://westlake-drawer.github.io/notes/math/partial-differential-equations/) | `qwerasdasd1/PDE-notes` |
-
-### Chemistry
-
-| Course | Source |
-| :--- | :--- |
-| [General Chemistry](https://westlake-drawer.github.io/notes/chemistry/general-chemistry/) | [`JiamingShi-JsPhys`](https://github.com/JiamingShi-JsPhys/chem-notes) |
-
-### Physics
-
-| Course | Source |
-| :--- | :--- |
-| [Quantum Mechanics](https://westlake-drawer.github.io/notes/physics/quantum-mechanics/) | `jietexue/quantum-mechanics-notes` |
+| # | Course | Subject | Source | Stars |
+| --: | :--- | :--- | :--- | --: |
+| 1 | [Calculus](https://westlake-drawer.github.io/notes/math/calculus/) | Mathematics | `qwerasdasd1/Calculus-notes` | 6 |
+| 2 | [Linear Algebra](https://westlake-drawer.github.io/notes/math/linear-algebra/) | Mathematics | `qwerasdasd1/Linear-Algebra-notes` | 3 |
+| 3 | [General Chemistry](https://westlake-drawer.github.io/notes/chemistry/general-chemistry/) | Chemistry | [`JiamingShi-JsPhys`](https://github.com/JiamingShi-JsPhys/chem-notes) | 3 |
+| 4 | [Fundamental Algebra and Analysis](https://westlake-drawer.github.io/notes/math/fundamental-algebra-analysis/) | Mathematics | [`westlake-drawer`](https://github.com/westlake-drawer/FAA-lecture-notes-2025fall-2026spring) | 0 |
+| 5 | [Measure Theory and Real Analysis](https://westlake-drawer.github.io/notes/math/measure-theory-real-analysis/) | Mathematics | [`westlake-drawer`](https://github.com/westlake-drawer/Measure-Theory-and-Real-Analysis) | 0 |
+| 6 | [Ordinary Differential Equations](https://westlake-drawer.github.io/notes/math/ordinary-differential-equations/) | Mathematics | [`westlake-drawer`](https://github.com/westlake-drawer/Ordinary-Differential-Equations) | 0 |
+| 7 | [Partial Differential Equations](https://westlake-drawer.github.io/notes/math/partial-differential-equations/) | Mathematics | `qwerasdasd1/PDE-notes` | 0 |
+| 8 | [Probability Theory](https://westlake-drawer.github.io/notes/math/probability-theory/) | Mathematics | [`westlake-drawer`](https://github.com/westlake-drawer/Probability-Theory) | 0 |
+| 9 | [Quantum Mechanics](https://westlake-drawer.github.io/notes/physics/quantum-mechanics/) | Physics | `jietexue/quantum-mechanics-notes` | 0 |
 
 ## Tools
 
-| Tool | Description | Source |
-| :--- | :--- | :--- |
-| [Chelate Shell](https://westlake-drawer.github.io/tools/chelate-shell/) | Orchestrating local agent skills into deterministic workflows. | [`JiamingShi-JsPhys`](https://github.com/JiamingShi-JsPhys/chelate-shell) |
+| # | Tool | Category | Source | Stars |
+| --: | :--- | :--- | :--- | --: |
+| 1 | [Chelate Shell](https://westlake-drawer.github.io/tools/chelate-shell/) | AI Tools | [`JiamingShi-JsPhys`](https://github.com/JiamingShi-JsPhys/chelate-shell) | 4 |
 
 ---
 
 ## Reading the notes
 
 Most repositories contain LaTeX sources. See each repository's README for PDF
-availability and build instructions, and check its **Releases** page for compiled
+availability and build instructions, and check its Releases page for compiled
 materials. Course materials are maintained in their original repositories — this
 site provides an index only.
 
@@ -100,10 +86,10 @@ itself are welcome in [`notes-index`](https://github.com/westlake-drawer/notes-i
 
 | | |
 | :--- | :--- |
-| 🏠 **Organization** | [github.com/westlake-drawer](https://github.com/westlake-drawer) |
-| 📝 **Notes index** | [westlake-drawer/notes-index](https://github.com/westlake-drawer/notes-index) |
-| 💬 **Community Hub** | [westlake-drawer/community](https://github.com/westlake-drawer/community) |
-| 🤝 **Join the organization** | [membership-application](https://github.com/westlake-drawer/membership-application) |
+| Organization | [github.com/westlake-drawer](https://github.com/westlake-drawer) |
+| Notes index | [westlake-drawer/notes-index](https://github.com/westlake-drawer/notes-index) |
+| Community hub | [westlake-drawer/community](https://github.com/westlake-drawer/community) |
+| Membership | [membership-application](https://github.com/westlake-drawer/membership-application) |
 
 <div align="center">
 
